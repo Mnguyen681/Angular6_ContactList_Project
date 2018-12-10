@@ -1,0 +1,18 @@
+.example-card {
+  max-width: 500px;
+  margin: 10px;
+}
+
+.button-row {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.Index {
+  margin-left: 10px;
+}
+
+.Add {
+  margin-left: 10px;
+}

@@ -1,0 +1,46 @@
+.example-container {
+  display: flex;
+  flex-direction: column;
+  max-height: 500px;
+  min-width: 300px;
+  overflow: auto;
+  margin: 10px;
+}
+
+.title-col {
+  flex: 0 0 100px !important;
+  white-space: unset !important;
+}
+
+.button-row {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.Index {
+  margin-left: 10px;
+}
+
+.Add {
+  margin-left: 10px;
+}
+
+.Edit {
+  text-align: center;
+}
+
+.detailbutton {
+  background-color: turquoise;
+  margin-left: 10px;
+}
+
+.editbutton {
+  background-color: green;
+  margin-left: 10px;
+}
+
+.deletebutton {
+  background-color: red;
+  margin-left: 10px;
+}
